@@ -1,0 +1,32 @@
+{
+    "offerList": [
+        {
+            "ProductDesc": "Süper Kasko",
+            "FirmName": "Groupama Sigorta",
+            "Cash": 5695.66,
+            "QuotaInfo": {
+                "HasDiscount": true,
+                "PremiumWithDiscount": 5416.66
+            },
+            "SaleClosed": false,
+            "ImagePath": "Groupama.png",
+            "popoverContent": [
+                {
+                    "Title": "Servis Seçimi : Serbest",
+                    "Description": "Onarım sigortacının anlaşmalı olduğu serviste veya sigortalının tercih edeceği serviste yapılabilir. Anlaşmasız servislerde Sigortacıdan izin alınmaksızın yapılan onarımlar ödenmez."
+                }
+            ]
+        },
+        {
+            "ProductDesc": "Ak Kasko",
+            "FirmName": "Ak Sigorta",
+            "Cash": 1432.67,
+            "QuotaInfo": {
+                "HasDiscount": false,
+                "PremiumWithDiscount": 0
+            },
+            "SaleClosed": true,
+            "ImagePath": "AkSigorta.png"
+        }
+    ]
+}

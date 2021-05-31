@@ -1,0 +1,50 @@
+{
+	"products": [
+		{
+			"title": "Şahane Fırsat",
+			"discountRate": 0.1,
+			"popoverContent": [{
+				"Title": "İndirim fırsatı!",
+				"Description": "Bu haftaya özel %10 indirim!"	
+			}]
+		},
+		{
+			"title": "Süper Kapsam",
+			"discountRate": 0,
+			"popoverContent": [{
+				"Title": "Teminatlar: Ek onarım paketi dahil dolu paket",
+				"Description": "Tüm ek teminatların dahil olduğu bu paket ekonomik ve kapsamlı"	
+			}]
+		},
+		{
+			"title": "Standart Paket",
+			"discountRate": 0
+		}
+	],
+	"providers":[
+		{
+			"FirmName":"Ak Sigorta",
+			"ImagePath":"Ak_Sigorta.png"
+		},
+		{
+			"FirmName":"Anadolu Sigorta",
+			"ImagePath":"Anadolu_Sigorta.png"
+		},
+		{
+			"FirmName":"Axa Sigorta",
+			"ImagePath":"Axa_Sigorta.jpg"
+		},
+		{
+			"FirmName":"Doga Sigorta",
+			"ImagePath":"Doga_Sigorta.png"
+		},
+		{
+			"FirmName":"Groupama Sigorta",
+			"ImagePath":"Groupama_Sigorta.jpg"
+		},
+		{
+			"FirmName":"HDI Sigorta",
+			"ImagePath":"HDI_Sigorta.png"
+		}
+	]
+}
