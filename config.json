@@ -24,27 +24,39 @@
 	"providers":[
 		{
 			"FirmName":"Ak Sigorta",
-			"ImagePath":"Ak_Sigorta.png"
+			"ImagePath":"http://cdnsnet.mncdn.com/static/images/shared/firmLogos/aksigorta.png"
 		},
 		{
-			"FirmName":"Anadolu Sigorta",
-			"ImagePath":"Anadolu_Sigorta.png"
+			"FirmName":"Allianz",
+			"ImagePath":"http://cdnsnet.mncdn.com/static/images/shared/firmLogos/allianz.png"
 		},
 		{
-			"FirmName":"Axa Sigorta",
-			"ImagePath":"Axa_Sigorta.jpg"
+			"FirmName":"Axa",
+			"ImagePath":"http://cdnsnet.mncdn.com/static/images/shared/firmLogos/axa.png"
 		},
 		{
 			"FirmName":"Doga Sigorta",
-			"ImagePath":"Doga_Sigorta.png"
+			"ImagePath":"http://cdnsnet.mncdn.com/static/images/shared/firmLogos/dogasigorta.png"
 		},
 		{
-			"FirmName":"Groupama Sigorta",
-			"ImagePath":"Groupama_Sigorta.jpg"
+			"FirmName":"Groupama",
+			"ImagePath":"http://cdnsnet.mncdn.com/static/images/shared/firmLogos/groupama.png"
 		},
 		{
 			"FirmName":"HDI Sigorta",
-			"ImagePath":"HDI_Sigorta.png"
+			"ImagePath":"http://cdnsnet.mncdn.com/static/images/shared/firmLogos/hdisigorta.png"
+		},
+		{
+			"FirmName":"Mapfre",
+			"ImagePath":"http://cdnsnet.mncdn.com/static/images/shared/firmLogos/mapfre.png"
+		},
+		{
+			"FirmName":"Sompo Japan",
+			"ImagePath":"http://cdnsnet.mncdn.com/static/images/shared/firmLogos/sompojapan.png"
+		},
+		{
+			"FirmName":"Turk Nippon",
+			"ImagePath":"http://cdnsnet.mncdn.com/static/images/shared/firmLogos/turknippon.png"
 		}
 	]
 }
