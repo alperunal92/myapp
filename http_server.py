@@ -6,7 +6,6 @@ import json
 import numpy as np
 import random
 import time
-import os
 
 global example_data, config
 
@@ -89,5 +88,4 @@ if __name__ == "__main__":
 
     with open('config.json', encoding='utf-8') as json_file:
         config = json.load(json_file)
-    port = int(os.environ.get("PORT", 5000))
     app.run(debug=True, host='0.0.0.0', port=port)
