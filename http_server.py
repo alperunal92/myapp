@@ -82,10 +82,6 @@ def case3():
     time.sleep(sleep_duration_sec)
     return make_row(config)
 
-@app.route("/logo")
-def logo():
-    return logo()
-
 if __name__ == "__main__":
     with open('listing-data.json') as json_file:
         example_data = json.load(json_file)
